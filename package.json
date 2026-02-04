@@ -1,0 +1,38 @@
+{
+  "name": "zhuyin-game-v2",
+  "version": "1.0.0",
+  "description": "注音闘關 v2 - 專為 5-7 歲兒童設計的注音符號學習遊戲",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage"
+  },
+  "keywords": [
+    "zhuyin",
+    "bopomofo",
+    "教育",
+    "兒童",
+    "注音",
+    "遊戲"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@testing-library/dom": "^10.4.1",
+    "@vitest/coverage-v8": "^3.2.4",
+    "autoprefixer": "^10.4.20",
+    "jsdom": "^26.1.0",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.19",
+    "vite": "^6.4.1",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18"
+  }
+}
