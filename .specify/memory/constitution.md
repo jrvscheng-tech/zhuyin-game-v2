@@ -1,4 +1,4 @@
-# 注音闘關 Constitution
+# 注音闖關 Constitution
 
 ## Core Principles
 

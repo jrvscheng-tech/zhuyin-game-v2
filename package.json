@@ -1,7 +1,7 @@
 {
   "name": "zhuyin-game-v2",
   "version": "1.0.0",
-  "description": "注音闘關 v2 - 專為 5-7 歲兒童設計的注音符號學習遊戲",
+  "description": "注音闖關 v2 - 專為 5-7 歲兒童設計的注音符號學習遊戲",
   "type": "module",
   "scripts": {
     "dev": "vite",

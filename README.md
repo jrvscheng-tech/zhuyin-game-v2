@@ -1,4 +1,4 @@
-# 注音闘關 v2 🎮
+# 注音闖關 v2 🎮
 
 [![CI/CD](https://github.com/jonaswhiting/zhuyin-game-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/jonaswhiting/zhuyin-game-v2/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/jonaswhiting/zhuyin-game-v2/branch/main/graph/badge.svg)](https://codecov.io/gh/jonaswhiting/zhuyin-game-v2)
